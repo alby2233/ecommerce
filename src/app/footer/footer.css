@@ -1,5 +1,5 @@
 :root{
-    --primary-blue:#2196F3;
+    --primary-blue:#ffffff;
 }
 
 /* Footer container */
@@ -23,12 +23,12 @@
 
 /* Footer text */
 .footer-text{
-    color:#37474f;
+    color:#ffffff;
 }
 
 /* Links */
 .footer-link{
-    color:#455a64;
+    color:#ffffff;
     text-decoration:none;
     display:flex;
     align-items:center;
@@ -44,7 +44,7 @@
 
 /* Social icons */
 .social-link{
-    color:#607d8b;
+    color:#ffffff;
     margin-right:12px;
     font-size:18px;
     transition:all 0.3s ease;
